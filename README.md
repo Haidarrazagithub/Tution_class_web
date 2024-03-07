@@ -39,9 +39,9 @@ Configure the database settings in the settings.py file.
 Run migrations to create the necessary database schema.
 Start the Django development server.
 Access the application through the provided URL.
+
 Contribution Guidelines:
 Contributions to enhance the system are welcome! Follow these guidelines:
-
 Fork the repository.
 Create a new branch for your feature or bug fix.
 Ensure adherence to the project's coding style and conventions.
